@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <rect width="1280" height="640" fill="#FFFFFF"/>
+  <g transform="translate(400 225) scale(0.176)"><rect width="1024" height="1024" rx="238" fill="#191F28"/><ellipse cx="375" cy="512" rx="145" ry="213" fill="#FFFFFF"/><ellipse cx="649" cy="512" rx="145" ry="213" fill="#FFFFFF"/><circle cx="435" cy="461" r="73" fill="#191F28"/><circle cx="709" cy="461" r="73" fill="#191F28"/></g>
+  <text x="614" y="350" font-family="Pretendard, -apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="124" font-weight="800" fill="#191F28" letter-spacing="-5">히어지</text>
+  <text x="640" y="490" font-family="Pretendard, -apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="34" font-weight="600" fill="#8B95A1" text-anchor="middle">지금, 내 주변에 뭐 있어?</text>
+</svg>
